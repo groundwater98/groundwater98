@@ -26,7 +26,7 @@
 ## 🍀 Introduce
 I am Ji-soo Kim, majoring in Computer Science at Inha University. 
 I have a profound interest in Artificial Intelligence and Deep Learning and am actively participating in Federated Learning projects as an undergraduate intern at the LMLS Lab. Beyond Federated Learning, I am passionately expanding my expertise in various Deep Learning algorithms, including Natural Language Processing (NLP) and Computer Vision. 
-My ultimate goal is to become a specialist developer in my field of study and to emerge as a leading Deep Learning developer
+My ultimate goal is to become a specialist developer in my field of study and to emerge as a leading Deep Learning developer.
 
 ## 📞 Contact
 <div style="display:flex; flex-direction:row;">
