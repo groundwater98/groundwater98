@@ -1,1 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Rect)
+![header](https://capsule-render.vercel.app/api?type=Rect&text=JiSooKim)
+
+
