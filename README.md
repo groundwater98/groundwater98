@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://github.com/groundwater98">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=groundwater98&include_all_commits=true&show_icons=true&theme=dark" />
+  </a>
   <a href="https://github.com/groundwater98">
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=groundwater98&langs_count=10&layout=compact&theme=dark" />
   </a>
