@@ -6,23 +6,6 @@
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=_hexcode&text=Jisoo%20Kim's%20GitHub%20👋&fontColor=ffffff&animation=blinking&fontSize=40&fontAlignY=50&fontAlign=50&height180)
 </div>
 
-
-
-### 👋 I'm Deep Learning🤖 Developer mainly using  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>, <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/groundwater98">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=groundwater98&include_all_commits=true&show_icons=true&theme=dark" />
-  </a>
-  <a href="https://github.com/groundwater98">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=groundwater98&langs_count=10&layout=compact&theme=dark" />
-  </a>
-</p>
-
-<br clear="left"/>
-
 ## 🍀 Introduce
 I am Ji-soo Kim, majoring in Computer Science at Inha University. <br/>
 I have a profound interest in Artificial Intelligence and Deep Learning and am actively participating in Federated Learning projects as an undergraduate intern at the LMLS Lab. Beyond Federated Learning, I am passionately expanding my expertise in various Deep Learning algorithms, including Natural Language Processing (NLP) and Computer Vision. <br/>
