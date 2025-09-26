@@ -31,9 +31,7 @@ My ultimate goal is to become a specialist developer in my field of study and to
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
         <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> 
-        <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
         <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
         <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
   <br/>
@@ -51,7 +49,6 @@ My ultimate goal is to become a specialist developer in my field of study and to
     <p><strong>Others</strong></p>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> 
 </div><br>
 </div>
 
