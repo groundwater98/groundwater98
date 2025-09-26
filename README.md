@@ -1,6 +1,4 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgroundwater98&count_bg=%235FD0E6&title_bg=%23080000&icon=&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=_hexcode&text=Jisoo%20Kim's%20GitHub%20👋&fontColor=ffffff&animation=blinking&fontSize=40&fontAlignY=50&fontAlign=50&height180)
